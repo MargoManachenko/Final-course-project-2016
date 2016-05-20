@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfDisease xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Disease>
+    <Title>12</Title>
+    <Symptoms>12</Symptoms>
+    <Procedures>2</Procedures>
+    <Treatment>
+      <string>555</string>
+      <string>00</string>
+      <string>000</string>
+    </Treatment>
+  </Disease>
+  <Disease>
+    <Title>12</Title>
+    <Symptoms>21212</Symptoms>
+    <Procedures>00000</Procedures>
+    <Treatment>
+      <string>56</string>
+      <string>56</string>
+      <string>87</string>
+    </Treatment>
+  </Disease>
+</ArrayOfDisease>

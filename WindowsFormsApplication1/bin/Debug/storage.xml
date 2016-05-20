@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Storage>
+    <Title>Med2</Title>
+    <Quantity>2</Quantity>
+  </Storage>
+  <Storage>
+    <Title>Med3</Title>
+    <Quantity>2</Quantity>
+  </Storage>
+  <Storage>
+    <Title>00</Title>
+    <Quantity>0</Quantity>
+  </Storage>
+  <Storage>
+    <Title>11</Title>
+    <Quantity>3</Quantity>
+  </Storage>
+  <Storage>
+    <Title>22</Title>
+    <Quantity>0</Quantity>
+  </Storage>
+</ArrayOfStorage>

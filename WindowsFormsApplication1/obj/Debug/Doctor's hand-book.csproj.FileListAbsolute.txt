@@ -1,0 +1,36 @@
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Doctor's hand-book.csproj.GenerateResource.Cache
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Doctor's hand-book.csprojResolveAssemblyReference.cache
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.DiseaseOptionAdd.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.DiseaseOptionEdit.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.DiseasesControl.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.Form1.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.MedOptionAdd.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.MedsControl.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.MedOptionEdit.resources
+C:\Users\Margo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.Prescription.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\Doctor's hand-book.csprojResolveAssemblyReference.cache
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.DiseaseOptionAdd.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.DiseaseOptionEdit.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.DiseasesControl.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.Form1.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.MedOptionAdd.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.MedsControl.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\DoctorsHandBook.View.MedOptionEdit.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\Doctor's hand-book.csproj.GenerateResource.Cache
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View.Recipe.resources
+C:\Users\Margo\Videos\не прикасаться\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.View.Prescription.resources
+C:\Users\Margo\Videos\не прикасаться — копия\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Margo\Videos\не прикасаться — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Videos\не прикасаться — копия\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

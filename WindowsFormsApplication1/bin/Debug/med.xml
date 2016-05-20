@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfMedication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Medication>
+    <Title>11</Title>
+    <Description>1</Description>
+    <DoseUnit>0</DoseUnit>
+    <DosePortion>0</DosePortion>
+    <DosePeriod>0</DosePeriod>
+    <QuantityInStock>0</QuantityInStock>
+  </Medication>
+  <Medication>
+    <Title>555</Title>
+    <Description>5555</Description>
+    <DoseUnit>1</DoseUnit>
+    <DosePortion>1</DosePortion>
+    <DosePeriod>1</DosePeriod>
+    <QuantityInStock>2</QuantityInStock>
+  </Medication>
+  <Medication>
+    <Title>000</Title>
+    <Description>12</Description>
+    <DoseUnit>0</DoseUnit>
+    <DosePortion>0</DosePortion>
+    <DosePeriod>0</DosePeriod>
+    <QuantityInStock>0</QuantityInStock>
+  </Medication>
+</ArrayOfMedication>
